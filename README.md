@@ -1,9 +1,7 @@
-
-
 # 🎥 Video Activity Classification using LRCN (CNN + LSTM) on UCF50 Dataset
 
-**Author:** Behrooz Filzadeh
-
+**Author:** [Your Name]  
+**Date:** 2025
 
 ---
 
@@ -97,8 +95,10 @@ Place the `UCF50` folder in the root directory of this project or update the `DA
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
+(Replace your-username and your-repository-name with your actual GitHub username and repo name)
+
 2. Create Virtual Environment (Recommended)
 bash
 Copy
@@ -130,7 +130,7 @@ pip install -r requirements.txt
 Note: The code uses keras from TensorFlow 2.x, so TensorFlow 2.x installation is required.
 
 4. Download and Prepare UCF50 Dataset
-Download the dataset from the official website: UCF50 Dataset
+Download the dataset from the official website: https://www.crcv.ucf.edu/data/UCF50.php
 
 Extract the .rar or .zip file to get the UCF50 folder.
 
@@ -260,4 +260,3 @@ Training Parameters:
 Modify epochs, batch_size, learning rate.
 
 Adjust patience for EarlyStopping callback.
-
