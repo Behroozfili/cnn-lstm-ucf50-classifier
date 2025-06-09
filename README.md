@@ -1,11 +1,9 @@
 
-markdown
-Copy
-Edit
+
 # 🎥 Video Activity Classification using LRCN (CNN + LSTM) on UCF50 Dataset
 
-**Author:** [Your Name]  
-**Date:** 2025
+**Author:** Behrooz Filzadeh
+
 
 ---
 
